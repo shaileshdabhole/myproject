@@ -1,1 +1,27 @@
-def add(x,y):passdef subtract(x,y):passdef multiply(x,y):passdef divide(x,y):
+def add(x,y): 
+
+    pass 
+
+def subtract(x,y): 
+
+    pass 
+
+def multiply(x,y): 
+
+    pass 
+
+def divide(x,y): 
+
+    pass 
+
+def square(x,y): 
+
+    pass 
+
+git add -A 
+
+def multiply(x,y): 
+
+    return x*y 
+
+;test comment
